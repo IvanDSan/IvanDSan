@@ -1,4 +1,4 @@
-# 👨‍💻 Hola, soy IvanDSan
+# 👨‍💻 Hola, soy Ivan Diaz
 
 Soy desarrollador fullstack con experiencia en **Node.js**, **React**, y **MySQL**.
 
